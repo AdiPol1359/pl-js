@@ -1,0 +1,30 @@
+{
+  "name": "pl-js",
+  "author": "AdiPol1359",
+  "version": "1.0.1",
+  "keywords": [
+    "javascript",
+    "typescript",
+    "preprocessor",
+    "compilator",
+    "js",
+    "ts",
+    "polish",
+    "pl",
+    "lexer",
+    "parser",
+    "token"
+  ],
+  "bugs": {
+    "url": "https://github.com/AdiPol1359/pl-js/issues",
+    "email": "aditv1337@gmail.com"
+  },
+  "bin": {
+    "pl-js": "./dist/index.js"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^17.0.21"
+  },
+  "dependencies": {}
+}

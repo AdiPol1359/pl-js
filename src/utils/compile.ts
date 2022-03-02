@@ -1,0 +1,1 @@
+const wyswietl = console.log;
